@@ -25,7 +25,7 @@ The Quiz Portal is a web-based application where administrators can create and m
 3. The quiz presents single-answer questions with radio buttons and multiple-answer questions with checkboxes.
 4. After completing the quiz, users receive their results instantly.
 
-## Technologies Used
+## Technologies Used For this project
 - Backend: Spring Boot, MySQL
 - Frontend: React, JavaScript
 - Tools: IntelliJ IDEA, MySQL Workbench
